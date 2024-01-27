@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+/dist
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+pids
+logs
+results
+
+# dotenv environment variables file
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Visual Studio Code
+.vscode/
