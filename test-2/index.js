@@ -17,3 +17,7 @@ function calculateTrigonometricFunction(x, y, z) {
   let trigonometricResult = Math.sin(product);
   return trigonometricResult;
 }
+
+// Para probar
+const result = calculateTrigonometricFunction(1, 2, 3);
+console.log(result);

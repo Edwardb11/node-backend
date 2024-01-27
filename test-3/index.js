@@ -10,5 +10,6 @@ function getOddNumbersUpToN(number) {
   }
 }
 
+// Para probar
 const result = getOddNumbersUpToN(9);
 console.log(result);
